@@ -1,0 +1,11 @@
+Version 0.9.2 5/7/00
+- parameter form
+- constant and function defintions
+- load and store data to file
+
+Version 0.9.1 5/1/00
+- Copy graph to clipboard
+- Print graph
+- Save graph to disk; formats: tga, ppm, png, jpeg and bmp.
+
+Version 0.9 (first release 4/27/00)
